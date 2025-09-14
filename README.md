@@ -13,9 +13,12 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,arduino,cs,unity,git">&nbsp;&nbsp;<img src="scratchIcon.svg" height="48">
 </p>
-<p align="center">
+
+<!---
+(<p align="center">)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maDU59&layout=compact&hide=ShaderLab" width="350">
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maDU59&show_icons=true">
 </p>
+--->
