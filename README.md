@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,arduino,cs,unity,git">&nbsp;&nbsp;<img src="scratchIcon.svg" height="48">
+  <img src="https://skillicons.dev/icons?i=unity,cs,python,java,html,css,arduino,git">&nbsp;&nbsp;<img src="scratchIcon.svg" height="48">
 </p>
 
 <!---
